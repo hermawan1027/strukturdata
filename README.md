@@ -1,0 +1,2 @@
+# strukturdata
+TUGAS KULIAH STRUKTUR DATA PAK ISA
